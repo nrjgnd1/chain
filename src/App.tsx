@@ -11,6 +11,7 @@ function App() {
     <>
       <section id="center">
         <h1>My React Project</h1>
+        <p>This for demo</p>
       </section>
     </>
   )
